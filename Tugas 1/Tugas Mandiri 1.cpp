@@ -2,8 +2,8 @@
 
 int main() 
 {
-	char nim[] = "2441051";
-	char nama [] = "Achmad Luqman Hakim";
+	char nim[] = "2441016";
+	char nama [] = "Faudzril Bilal Yasril";
 	char jurusan [] = "Teknik Informatika";
 
 	printf("NIM : %s\n", nim);
